@@ -1,0 +1,11 @@
+
+
+step1:  create a new folder when you lern new topic
+
+step2: create all files as you created in own VS code 
+
+step3 : open terminal and run some commond;
+
+1. go same folder like cd 'folder name'
+2. npx http-server 
+3. npm  init -y (optional ) but  you have 
