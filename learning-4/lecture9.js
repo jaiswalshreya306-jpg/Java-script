@@ -24,7 +24,8 @@ function payment(amount){
     console.log("payment is received");
     zomatoOrderPlaced();
 
-}
+//}
 //gst: government
 //rider ko kkitna pament  dena 
-// company ko kitna dena h
+//company ko kitna dena 
+}
