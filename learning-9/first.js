@@ -24,5 +24,8 @@ element.before(newElement2);
 
 console.log(newElement2);
 
+const lister = document.createElement("li");
+lister.textContent = "help";
+
 
 
